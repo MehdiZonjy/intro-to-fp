@@ -1,0 +1,15 @@
+{
+  "name": "fp-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.10",
+    "typescript": "^3.5.2"
+  }
+}
